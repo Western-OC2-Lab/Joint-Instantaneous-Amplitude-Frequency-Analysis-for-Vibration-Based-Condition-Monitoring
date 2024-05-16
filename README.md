@@ -2,7 +2,7 @@ This is the code for the paper entitled "**Joint Instantaneous Amplitude-Frequen
 Authors: Sulaiman Aburakhia, Ismail Hamieh, and Abdallah Shami. <br>
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University, London, Canada. <br>
 
-this paper introduces a low-complexity method for Vibration-based condition monitoring (VBCM) of rolling bearings based on joint analysis of Instantaneous Amplitude (IA) and Instantaneous Frequency (IF) information of the generated vibration signal. Specifically, the proposed method employs the HT to obtain instantaneous information and then jointly analyze IA and IF information, facilitating new three joint instantaneous amplitude-frequency representations of the vibration signal:
+The paper introduces a low-complexity method for Vibration-based condition monitoring (VBCM) of rolling bearings based on joint analysis of Instantaneous Amplitude (IA) and Instantaneous Frequency (IF) information of the generated vibration signal. Specifically, the proposed method employs the HT to obtain instantaneous information and then jointly analyze IA and IF information, facilitating new three joint instantaneous amplitude-frequency representations of the vibration signal:
 <ol>
   <li>Instantaneous Amplitude-Frequency Mapping (IAFM)</li>
   <li>Instantaneous Amplitude-Frequency Correlation (IAFC)</li>
