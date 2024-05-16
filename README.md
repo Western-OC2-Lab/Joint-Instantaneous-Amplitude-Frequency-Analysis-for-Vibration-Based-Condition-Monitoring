@@ -15,9 +15,11 @@ Accordingly, six new fault-sensitive features are engineered from these represen
 <img src="https://github.com/Western-OC2-Lab/Joint-Instantaneous-Amplitude-Frequency-Analysis-for-Vibration-Based-Condition-Monitoring/blob/main/Method.png"/> 
 </p>
 
-
 ### Dataset:<br>
 [the Paderborn University (PU) bearing dataset](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)<br>
+
+
+Pre-print is available [here](https://arxiv.org/abs/2405.08919). <br>
 
 
 ## Contact Information
@@ -28,5 +30,5 @@ Github: [SulAburakhia](https://github.com/SulAburakhia) or [Western OC2 Lab](htt
 Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en); [Sulaiman Aburakhia](https://scholar.google.com/citations?user=8x-pPSYAAAAJ&hl=en)
 
 
-Pre-print is available [here](https://arxiv.org/abs/2405.08919). <br>
+
 
