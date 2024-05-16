@@ -28,16 +28,5 @@ Github: [SulAburakhia](https://github.com/SulAburakhia) or [Western OC2 Lab](htt
 Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en); [Sulaiman Aburakhia](https://scholar.google.com/citations?user=8x-pPSYAAAAJ&hl=en)
 
 
-
-## Citation
-
-If you find this repository useful in your research, please cite as:
-
-S. A. Aburakhia, I. Hamieh and A. Shami, "Joint Instantaneous Amplitude-Frequency Analysis of Vibration Signals for Vibration-Based Condition Monitoring of Rolling Bearings,"arXiv:2405.08919, May 2024.
-
-
-
-## Publication
-
 Pre-print is available [here](https://arxiv.org/abs/2405.08919). <br>
 
