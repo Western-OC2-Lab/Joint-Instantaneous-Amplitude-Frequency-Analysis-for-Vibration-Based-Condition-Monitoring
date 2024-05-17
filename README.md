@@ -2,13 +2,13 @@ This is the code for the paper entitled "**Joint Instantaneous Amplitude-Frequen
 Authors: Sulaiman Aburakhia, Ismail Hamieh, and Abdallah Shami. <br>
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University, London, Canada. <br>
 
-The paper introduces a low-complexity method for Vibration-based condition monitoring (VBCM) of rolling bearings based on joint analysis of Instantaneous Amplitude (IA) and Instantaneous Frequency (IF) information of the generated vibration signal. Specifically, the proposed method employs the HT to obtain instantaneous information and then jointly analyze IA and IF information, facilitating new three joint instantaneous amplitude-frequency representations of the vibration signal:
+The paper introduces a low-complexity method for Vibration-Based Condition Monitoring (VBCM) of rolling bearings based on joint analysis of Instantaneous Amplitude (IA) and Instantaneous Frequency (IF) information of the generated vibration signal. Specifically, the proposed method employs the Hilbert Transfrom (HT) to obtain instantaneous information and then jointly analyze IA and IF, facilitating new three joint instantaneous amplitude-frequency representations of the vibration signal:
 <ol>
   <li>Instantaneous Amplitude-Frequency Mapping (IAFM)</li>
   <li>Instantaneous Amplitude-Frequency Correlation (IAFC)</li>
   <li>Instantaneous Energy-Frequency Distribution (IEFD)</li>
 </ol>
-Accordingly, six new fault-sensitive features are engineered from these representations. Besides the small number of extracted features, the proposed method uses very short durations of the generated vibration signal for condition monitoring, thereby relaxing memory requirements and reducing monitoring delay 
+Accordingly, six new fault-sensitive features are engineered from these representations. Besides the small number of the extracted features, the proposed method uses very short durations of the generated vibration signal for condition monitoring, thereby relaxing memory requirements and reducing monitoring delay.
 
 
 <p float>
